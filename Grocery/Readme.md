@@ -72,19 +72,3 @@ admin@example.com (Admin)
 john@example.com (Customer)
 123456
 ```
-
-
-
-
-## :handshake: Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/juanmndz/react-ecommerce-material/issues).
-
-## Show your support
-
-Give a :star: if you like this project
-
-## Acknowledgments
-- [Material-Ui](https://material-ui.com/components/material-icons/) for its Awesome Icons
